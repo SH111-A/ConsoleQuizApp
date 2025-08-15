@@ -11,7 +11,7 @@ A simple Java console-based quiz application that allows users to select a topic
 # Console Quiz App
 
 A simple Java-based console quiz application that allows users to select a topic and answer multiple-choice or descriptive questions. It displays the score at the end of the quiz.
-<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/02e5dc9c-7098-475b-a147-990aeb8e5a3d" />
+
 
 ## 🗂️ Project Structure
 
@@ -50,7 +50,7 @@ Edit
 
 ## ▶️ How to Compile and Run
 
-```bash
+
 # Navigate to the project directory
 cd ConsoleQuizApp
 
@@ -97,7 +97,6 @@ Wrong! Correct answer: Reuse of code                 # Git ignore rules (optiona
 
 1. **Compile the source:**
 
-```bash
 javac -d out src/com/quiz/**/*.java
 Run the application:
 java -cp out com.quiz.Main
@@ -112,10 +111,8 @@ Feel free to fork and add more topics or features! Pull requests are welcome.
 
 📝 License
 This project is open source and free to use.
+Privew:
+<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/02e5dc9c-7098-475b-a147-990aeb8e5a3d" />
 
-privew:
-<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/b93061a5-33b6-4bb7-bb6e-a4bfed54b694"/>
-
-<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/799a616a-c090-4306-af2b-a84583d4d204" />
 
 
