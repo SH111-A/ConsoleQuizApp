@@ -111,8 +111,8 @@ Feel free to fork and add more topics or features! Pull requests are welcome.
 
 📝 License
 This project is open source and free to use.
-
 Privew:
+
 <img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/02e5dc9c-7098-475b-a147-990aeb8e5a3d" />
 
 
