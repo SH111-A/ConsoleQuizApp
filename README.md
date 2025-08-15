@@ -11,6 +11,7 @@ A simple Java console-based quiz application that allows users to select a topic
 # Console Quiz App
 
 A simple Java-based console quiz application that allows users to select a topic and answer multiple-choice or descriptive questions. It displays the score at the end of the quiz.
+<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/02e5dc9c-7098-475b-a147-990aeb8e5a3d" />
 
 ## 🗂️ Project Structure
 
