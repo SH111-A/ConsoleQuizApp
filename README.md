@@ -115,5 +115,6 @@ This project is open source and free to use.
 privew:
 <img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/b93061a5-33b6-4bb7-bb6e-a4bfed54b694"/>
 
+<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/799a616a-c090-4306-af2b-a84583d4d204" />
 
 
