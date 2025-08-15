@@ -113,7 +113,7 @@ Feel free to fork and add more topics or features! Pull requests are welcome.
 This project is open source and free to use.
 
 privew:
-<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/b93061a5-33b6-4bb7-bb6e-a4bfed54b694" />
+<img width="639" height="903" alt="Screenshot 2025-08-15 120734" src="https://github.com/user-attachments/assets/b93061a5-33b6-4bb7-bb6e-a4bfed54b694"/>
 
 
 
