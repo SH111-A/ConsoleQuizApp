@@ -14,15 +14,22 @@ A simple Java console-based quiz application that allows users to select a topic
 ConsoleQuizApp/
 │
 ├── src/
+
 │ └── com/quiz/
+
 │ ├── Main.java
+
 │ ├── ConsoleColors.java
+
 │ ├── model/
 │ │ └── QuizTopic.java
+
 │ ├── service/
 │ │ └── QuizEngine.java
+
 │ └── ui/
 │ └── ConsoleUI.java
+
 ├── out/ # Compiled classes
 └── README.md
 
@@ -34,11 +41,10 @@ ConsoleQuizApp/
 javac -d out src/com/quiz/**/*.java
 Run the application:
 java -cp out com.quiz.Main
+
 📚 Topics Included
-Java Basics
-
-SQL
-
+1.Java Basics
+2.SQL
 (You can add more topics in ConsoleUI.java)
 
 🤝 Contributing
