@@ -17,18 +17,30 @@ A simple Java-based console quiz application that allows users to select a topic
 ConsoleQuizApp/
 │
 ├── src/
+
 │ └── com/
+
 │ └── quiz/
+
 │ ├── Main.java
+
 │ ├── ConsoleColors.java
+
 │ ├── model/
+
 │ │ └── QuizTopic.java
+
 │ ├── service/
+
 │ │ └── QuizEngine.java
+
 │ └── ui/
+
 │ └── ConsoleUI.java
+
 │
 ├── out/ # Compiled .class files go here
+
 ├── README.md
 
 bash
