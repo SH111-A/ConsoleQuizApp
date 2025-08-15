@@ -9,30 +9,27 @@ A simple Java console-based quiz application that allows users to select a topic
 - Score calculation and feedback
 - Easy to add new topics and questions
 
-## 📂 Project Structure
-
 ConsoleQuizApp/
 │
 ├── src/                                # Source code directory
 │   └── com/
 │       └── quiz/
 │           ├── Main.java               # Entry point of the quiz app
-│           ├── ConsoleColors.java      # Utility class for console text coloring
+│           ├── ConsoleColors.java      # Utility for coloring console output
 │
 │           ├── model/
-│           │   └── QuizTopic.java      # Model class representing a quiz topic with questions & answers
+│           │   └── QuizTopic.java      # Model for holding topic name, questions, and answers
 │
 │           ├── service/
-│           │   └── QuizEngine.java     # Core logic to run the quiz and evaluate answers
+│           │   └── QuizEngine.java     # Core logic for running and scoring the quiz
 │
 │           └── ui/
-│               └── ConsoleUI.java      # Handles user interaction and quiz topic selection
+│               └── ConsoleUI.java      # User interface and topic selection
 │
-├── out/                                # Compiled .class files go here
+├── out/                                # Compiled class files
 │
-├── README.md                           # Project documentation
-├── .gitignore                          # Optional: specifies files/folders to ignore in git
-└── build.bat / build.sh                # Optional: batch or shell script to compile the project
+├── README.md                           # Project overview and setup instructions
+└── .gitignore                          # Git ignore rules (optional)
 
 ## 🛠 How to Run
 
